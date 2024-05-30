@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Imagify/static/css/main.563f8343.css",
+    "main.js": "/Imagify/static/js/main.623299a8.js",
+    "static/js/787.a3cbe924.chunk.js": "/Imagify/static/js/787.a3cbe924.chunk.js",
+    "index.html": "/Imagify/index.html",
+    "main.563f8343.css.map": "/Imagify/static/css/main.563f8343.css.map",
+    "main.623299a8.js.map": "/Imagify/static/js/main.623299a8.js.map",
+    "787.a3cbe924.chunk.js.map": "/Imagify/static/js/787.a3cbe924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.563f8343.css",
+    "static/js/main.623299a8.js"
+  ]
+}
